@@ -1,6 +1,6 @@
 # Classification Problem Tiny ImageNet
 
-ImageNet is a big dataset of 200 classes. In this repository I have made two models on it by applying different different techniques into both of these and accuracy.
+ImageNet is a big dataset of 200 classes. In this repository I have made two models on it by applying different different techniques into both of these and accuracy. All the checcpoints will be save in a modelcheckpoints named folder according to my code.
 
 For Data file : 
 
